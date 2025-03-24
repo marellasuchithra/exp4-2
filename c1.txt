@@ -1,0 +1,2 @@
+this is devops lab 
+rebase operation can be performed
